@@ -6,3 +6,4 @@ waybar
 wofi
 pipewire
 firefox
+pulseaudio
